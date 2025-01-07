@@ -1,0 +1,1 @@
+This repository demonstrates a NullPointerException that can occur when using the eachWithIndex method in Groovy with a null list. The `bug.groovy` file contains the buggy code, while `bugSolution.groovy` provides a solution to handle the null case gracefully.
